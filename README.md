@@ -7,4 +7,4 @@
 #### Estudiante: Geovanny Sebastián Herrera Claudio
 #### Carné: 202110588
 
-## Manual de Técnico [Click](https://github.com/SebastianHerrera/LFP_S2_2023_Practica_202110588/blob/main/Pr%C3%A1ctica%201/Manual%20T%C3%A9cnico.pdf)
+## Manual de Técnico [Click]([https://github.com/SebastianHerrera/LFP_S2_2023_Practica_202110588/blob/main/Pr%C3%A1ctica%201/Manual%20T%C3%A9cnico.pdf](https://github.com/SebastianHerrera/-LFP-P_202110588/blob/main/ManualTecnico.md)https://github.com/SebastianHerrera/-LFP-P_202110588/blob/main/ManualTecnico.md)
