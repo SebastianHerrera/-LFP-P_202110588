@@ -67,4 +67,3 @@ El menú principal te proporciona varias opciones para interactuar con el sistem
 1. Selecciona la opción "Filtrar por género" en el menú principal.
 2. Ingresa el género y se mostrarán las películas de ese género.
 
-¡Gracias por utilizar nuestro sistema de gestión de películas!
