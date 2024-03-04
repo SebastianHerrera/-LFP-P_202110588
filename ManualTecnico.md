@@ -1,4 +1,4 @@
-# Manual Técnico para el Programa de Gestión de Películas
+# Manual Técnico Practica 1
 
 ## 1. Introducción
 El programa de gestión de películas es una aplicación desarrollada en Python que permite cargar y gestionar una lista de películas desde un archivo de entrada. Proporciona funcionalidades para visualizar películas, actores y realizar filtrados por actor, año y género.
